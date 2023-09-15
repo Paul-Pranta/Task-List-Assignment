@@ -1,2 +1,24 @@
-# Task-List-Assignment
- this is a Task List app where other then adding , editing and deleting tasks , you can also apply filter on the addeded tasks
+# todo-app
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
